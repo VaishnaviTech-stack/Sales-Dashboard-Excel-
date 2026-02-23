@@ -10,3 +10,9 @@ This is an Excel-based sales dashboard project.
 
 ## Created By
 Vaishnavi
+
+## Key Skills Demonstrated
+- Data Cleaning
+- Pivot Tables
+- Dashboard Design
+- KPI Analysis
